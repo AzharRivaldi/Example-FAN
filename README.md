@@ -1,5 +1,5 @@
 # Example-FAN
-Sampel penerapan Library Fast Android Networking di Android
+Sampel penerapan Library Fast Android Networking GET JSON Object di Android
 
 # Tutorial Build with Android Studio
 https://youtu.be/2exxk3ih99M
