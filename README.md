@@ -1,4 +1,4 @@
-# Example-FAN
+# Example-FAN-Object
 Sampel penerapan Library Fast Android Networking GET JSON Object di Android
 
 # Tutorial Build with Android Studio
